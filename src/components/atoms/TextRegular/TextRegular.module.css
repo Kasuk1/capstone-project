@@ -1,0 +1,19 @@
+.TextRegular {
+  font-family: var(--font-markazi);
+  font-optical-sizing: auto;
+  font-size: 2.5rem;
+  font-weight: 400;
+}
+
+.TextRegular.default {
+  color: var(--color-highlight-black);
+}
+.TextRegular.primary {
+  color: var(--color-primary-green);
+}
+.TextRegular.secondary {
+  color: var(--color-secondary-orange);
+}
+.TextRegular.tertiary {
+  color: var(--color-highlight-grey);
+}

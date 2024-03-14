@@ -1,0 +1,19 @@
+.CommonButton {
+  background-color: var(--color-primary-yellow);
+  border: none;
+  border-radius: var(--16px);
+  padding: 0.7rem 1.5rem;
+}
+
+.CommonButton.default {
+  background-color: var(--color-primary-yellow);
+}
+.CommonButton.primary {
+  background-color: var(--color-primary-yellow);
+}
+.CommonButton.secondary {
+  background-color: var(--color-primary-green);
+}
+.CommonButton.tertiary {
+  background-color: var(--color-primary-green);
+}

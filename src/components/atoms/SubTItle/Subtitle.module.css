@@ -1,0 +1,16 @@
+.SubTitle {
+  font-family: var(--font-markazi);
+  font-optical-sizing: auto;
+  font-size: 3.125rem;
+  font-weight: 500;
+}
+
+.SubTitle.default {
+  color: var(--color-hightlight-black);
+}
+.SubTitle.primary {
+  color: var(--color-primary-green);
+}
+.SubTitle.secondary {
+  color: var(--color-secondary-light-orange);
+}

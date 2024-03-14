@@ -1,0 +1,15 @@
+.UserProfileImage {
+  border-radius: 100%;
+}
+.UserProfileImage.small {
+  width: 4.6875rem;
+  height: 4.6875rem;
+}
+.UserProfileImage.normal {
+  width: 5.625rem;
+  height: 5.625rem;
+}
+.UserProfileImage.large {
+  width: 9.375rem;
+  height: 9.375rem;
+}

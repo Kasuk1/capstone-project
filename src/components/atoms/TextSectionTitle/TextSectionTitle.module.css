@@ -1,0 +1,20 @@
+.TextSectionTitle {
+  font-family: var(--font-karla);
+  font-optical-sizing: auto;
+  font-size: 1.25rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.TextSectionTitle.default {
+  color: var(--color-highlight-black);
+}
+.TextSectionTitle.primary {
+  color: var(--color-primary-green);
+}
+.TextSectionTitle.secondary {
+  color: var(--color-secondary-orange);
+}
+.TextSectionTitle.tertiary {
+  color: var(--color-highlight-grey);
+}

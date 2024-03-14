@@ -1,0 +1,15 @@
+.TextDisplayTitle {
+  font-family: var(--font-markazi);
+  font-optical-sizing: auto;
+  font-size: 4rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 0.5;
+}
+
+.TextDisplayTitle.primary {
+  color: var(--color-primary-yellow);
+}
+.TextDisplayTitle.secondary {
+  color: var(--color-highlight-black);
+}

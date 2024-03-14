@@ -1,0 +1,31 @@
+.CardFood {
+  background-color: var(--color-highlight-grey);
+  width: 100%;
+  border-radius: var(--8px);
+  overflow: hidden;
+}
+
+.CardFood_image {
+  width: 100%;
+}
+.CardFood_image img {
+  width: 100%;
+}
+
+.CardFood_description {
+  padding: 1.35rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.CardFood_description header {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (width > 600px) {
+  .CardFood {
+    width: 16.25rem;
+  }
+}

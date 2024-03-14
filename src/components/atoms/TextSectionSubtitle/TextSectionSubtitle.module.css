@@ -1,0 +1,19 @@
+.TextSectionSubtitle {
+  font-family: var(--font-karla);
+  font-optical-sizing: auto;
+  font-size: 1rem;
+  font-weight: 800;
+}
+
+.TextSectionSubtitle.default {
+  color: var(--color-highlight-black);
+}
+.TextSectionSubtitle.primary {
+  color: var(--color-primary-green);
+}
+.TextSectionSubtitle.secondary {
+  color: var(--color-secondary-orange);
+}
+.TextSectionSubtitle.tertiary {
+  color: var(--color-highlight-grey);
+}

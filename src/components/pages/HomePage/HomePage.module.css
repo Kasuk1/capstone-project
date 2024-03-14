@@ -1,0 +1,10 @@
+.HomePage {
+  display: flex;
+  flex-direction: column;
+}
+.HomePage_hero {
+  background-color: var(--color-primary-green);
+}
+.HomePage_testimonials {
+  background-color: var(--color-highlight-grey);
+}

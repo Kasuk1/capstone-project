@@ -1,0 +1,30 @@
+.SpecialsSection {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+}
+
+.SpecialsSection_food--header {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.SpecialsSection_food--container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+@media (width > 768px) {
+  .SpecialsSection {
+    padding-bottom: 6.6875rem !important;
+    padding-top: 7.8125rem !important;
+  }
+  .SpecialsSection header {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+}

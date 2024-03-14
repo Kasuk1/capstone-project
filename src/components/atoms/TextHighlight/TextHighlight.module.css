@@ -1,0 +1,19 @@
+.TextHighlight {
+  font-family: var(--font-karla);
+  font-optical-sizing: auto;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.TextHighlight.default {
+  color: var(--color-highlight-black);
+}
+.TextHighlight.primary {
+  color: var(--color-primary-green);
+}
+.TextHighlight.secondary {
+  color: var(--color-secondary-orange);
+}
+.TextHighlight.tertiary {
+  color: var(--color-highlight-grey);
+}

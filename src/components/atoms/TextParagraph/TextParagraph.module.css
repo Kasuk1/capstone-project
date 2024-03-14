@@ -1,0 +1,20 @@
+.TextParagraph {
+  font-family: var(--font-karla);
+  font-optical-sizing: auto;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+.TextParagraph.default {
+  color: var(--color-highlight-black);
+}
+.TextParagraph.primary {
+  color: var(--color-primary-green);
+}
+.TextParagraph.secondary {
+  color: var(--color-secondary-orange);
+}
+.TextParagraph.tertiary {
+  color: var(--color-highlight-grey);
+}

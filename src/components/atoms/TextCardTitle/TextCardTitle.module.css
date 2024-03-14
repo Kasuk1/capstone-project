@@ -1,0 +1,6 @@
+.TextCardTitle {
+  font-family: var(--font-karla);
+  font-optical-sizing: auto;
+  font-size: 1.125rem;
+  font-weight: 700;
+}
