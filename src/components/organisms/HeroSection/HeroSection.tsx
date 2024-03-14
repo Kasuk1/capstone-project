@@ -26,7 +26,7 @@ export const HeroSection = () => {
       </section>
       <section className={`${classes['HeroSection_right']}`}>
         <img
-          src='icons_assets/restaurant5.jpg'
+          src='icons_assets/restaurant5.webp'
           alt="Little Lemon's Main dish"
         />
       </section>

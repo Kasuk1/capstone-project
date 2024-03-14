@@ -6,7 +6,7 @@ type Props = {
 };
 
 export const UserProfileImage = ({
-  imgSrc = 'icons_assets/personal1.jpg',
+  imgSrc = 'icons_assets/personal1.webp',
   size = 'normal',
 }: Props) => {
   return (
