@@ -4,3 +4,4 @@ export * from './SpecialsSection';
 export * from './TestimonialsSection';
 export * from './AboutSection';
 export * from './Footer';
+export * from './BookingForm';
